@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+
+}
+body{
+  background-color:grey;
+}
+
+
+.logo{
+
+  background-color: white;
+}
+
+
+.navbar{
+
+}
+li{
+  display: inline;
+}
+.home{
+  position: relative;
+    width: 250px;
+    filter: brightness(20%);
+}
+.image{
+  align-items:center;
+  display: block;
+}
+.Aboutme{
+  position: absolute;
+    left: 0;
+top: 24em;
+    padding: 40px;
+    width: auto;
+    color: #FFF;
+      margin: 0 auto;
+}
+
+.main{
+  margin:0 auto;
+}
